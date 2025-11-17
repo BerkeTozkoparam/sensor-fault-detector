@@ -21,7 +21,7 @@ The project includes the complete workflow from data preprocessing to model trai
 
 Here is a preview of the Gradio application dashboard, showing the input fields and the predictive output (risk status and probability graph).
 
-![Gradio Interface Preview](<img width="1455" height="822" alt="Ekran Resmi 2025-11-17 21 57 53" src="https://github.com/user-attachments/assets/d0c56cfa-4159-42b8-a3bf-47e27c842673" />
+(<img width="1455" height="822" alt="Ekran Resmi 2025-11-17 21 57 53" src="https://github.com/user-attachments/assets/d0c56cfa-4159-42b8-a3bf-47e27c842673" />
 )
 
 ---
